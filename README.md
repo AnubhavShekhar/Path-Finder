@@ -24,7 +24,7 @@ This Python script provides a visualization of maze-solving using a simple bread
 3. Run the script:
 
    ```bash
-   python maze_solver.py
+   python path_finder.py
    ```
 
 4. Press any key to exit after the visualization is complete.
