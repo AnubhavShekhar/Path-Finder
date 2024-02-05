@@ -12,7 +12,7 @@ This Python script provides a visualization of maze-solving using a simple bread
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/AnubhavShekhar/Path-Finder.git
    ```
 
 2. Navigate to the directory:
