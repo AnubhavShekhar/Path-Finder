@@ -31,7 +31,7 @@ This Python script provides a visualization of maze-solving using a simple bread
 
 ## Customization
 
-You can customize the maze by modifying the `maze` variable in the `maze_solver.py` script. The maze is represented as a 2D list of characters where "#" represents walls, "O" is the starting point, and "X" is the destination.
+You can customize the maze by modifying the `maze` variable in the `path_finder.py` script. The maze is represented as a 2D list of characters where "#" represents walls, "O" is the starting point, and "X" is the destination.
 
 Feel free to experiment with different maze configurations.
 
